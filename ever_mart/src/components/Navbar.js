@@ -33,7 +33,7 @@ function Navbar() {
             <br/>
             <li>Acessórios Femininos</li>
             <br/>
-            <li>R</li>
+            <li>Material de construção</li>
           </ul>
         )}
       </div>
@@ -54,7 +54,7 @@ function Navbar() {
         
         <div className='adicional'>
             <p><FontAwesomeIcon icon={faShoppingCart} /> Carrinho</p>
-            <p><FontAwesomeIcon icon={faHeart} /> Seleção</p>        
+            <p><FontAwesomeIcon icon={faHeart} /> Coleção</p>        
         </div>
 
         <div className ="barra">  
@@ -69,3 +69,4 @@ function Navbar() {
 }
 
 export default Navbar
+
